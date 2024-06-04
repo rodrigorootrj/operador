@@ -1,0 +1,14 @@
+objeto = [{
+  id:1,
+  'name':'objeto 01',
+  'texto':'Texto de teste objeto 01.'
+},
+    id:2,
+  'name':'objeto 02',
+  'texto':'Texto de teste objeto 02.'
+},
+    id:3,
+  'name':'objeto 03',
+  'texto':'Texto de teste objeto 03.'
+},
+]
